@@ -65,6 +65,7 @@ connected the four major functions through main.
 fixed identifier validation
 andconfirmed 11/11 tests passed.
 
-
+7 oct
+add some small features and changes timeLine class
 
 
