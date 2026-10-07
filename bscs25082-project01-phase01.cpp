@@ -167,6 +167,11 @@ class timeLine
     {
         return stepCount;
     }
+    //functiin to check if its empty or not
+    bool is_empty() const
+    {
+    return stepCount == 0;
+    }
 };
 
 //struct variable
