@@ -161,6 +161,11 @@ class timeLine
     {
         return headNode;
     }
+    //function to give last 
+    timeLineNode *last()
+    {
+    return tail;
+    }
     
     //function to get step count
     int32_t get_step_count()
